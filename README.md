@@ -10,4 +10,6 @@ Current list is :
 
 > [!NOTE]
 > Link to other systems for knulli : https://github.com/dmmarti/Knulli-Systems
+
+> [!TIP]
 > Link to a theme that display all those systems : https://github.com/symbuzzer/es-theme-knulli
